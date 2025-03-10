@@ -19,8 +19,8 @@ Antes de iniciar o projeto, certifique-se de ter instalado em sua máquina:
 1. **Clone o repositório:**
 
    ```sh
-   git clone https://github.com/LeonardoPaniz/TESTE-BETALENT.git
-   cd TESTE_BETALENT
+   git https://github.com/LeonardoPaniz/teste-betalent.git
+   cd teste-betalent
    ```
 2. **Instale as dependências:**
 
